@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[539,["568","static/chunks/568-095e932eb4a6770f.js","872","static/chunks/872-d1a16f410463b74e.js","283","static/chunks/app/temple-of-the-jackal/page-bda9ad091b587f8a.js"],"default"]
+3:I[1872,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3XMHlE2xX0_Ike6UrGLHC"}
+5:null
