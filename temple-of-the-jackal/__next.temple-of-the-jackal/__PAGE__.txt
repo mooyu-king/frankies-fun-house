@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[539,["309","static/chunks/309-1e78fba376baa077.js","872","static/chunks/872-d1a16f410463b74e.js","283","static/chunks/app/temple-of-the-jackal/page-85d4363778a7c5fa.js"],"default"]
+2:I[539,["309","static/chunks/309-1e78fba376baa077.js","872","static/chunks/872-d1a16f410463b74e.js","283","static/chunks/app/temple-of-the-jackal/page-e9153864587d854c.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eKFqhqdJ_cg2g83HiJ5ND"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lp7uTsBNlBM3WN77eNtSm"}
 5:null

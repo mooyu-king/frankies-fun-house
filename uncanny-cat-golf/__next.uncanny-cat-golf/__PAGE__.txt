@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[6634,["309","static/chunks/309-1e78fba376baa077.js","872","static/chunks/872-d1a16f410463b74e.js","765","static/chunks/app/uncanny-cat-golf/page-52015e6d2e071aa0.js"],"default"]
+2:I[6634,["309","static/chunks/309-1e78fba376baa077.js","872","static/chunks/872-d1a16f410463b74e.js","765","static/chunks/app/uncanny-cat-golf/page-465cb394928c7431.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eKFqhqdJ_cg2g83HiJ5ND"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lp7uTsBNlBM3WN77eNtSm"}
 5:null
