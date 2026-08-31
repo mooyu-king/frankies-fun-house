@@ -2,5 +2,5 @@
 2:I[1133,[],""]
 3:I[4297,[],""]
 4:I[1453,["177","static/chunks/app/layout-c692b9f34c050085.js"],""]
-:HL["/_next/static/css/c4fc664636cb1653.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c4fc664636cb1653.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{"defer":true,"strategy":"afterInteractive","data-domain":"frankiesfunhouse.org","data-api":"https://data.1back.link/api/send","src":"https://data.1back.link/js/app.js"}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sd1fE77Rf-VgKpfJ6bU05"}
+:HL["/_next/static/css/c5ca7466702d7b20.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c5ca7466702d7b20.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{"defer":true,"strategy":"afterInteractive","data-domain":"frankiesfunhouse.org","data-api":"https://data.1back.link/api/send","src":"https://data.1back.link/js/app.js"}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z_aNBvSz4YIC_-ZtjflqI"}
