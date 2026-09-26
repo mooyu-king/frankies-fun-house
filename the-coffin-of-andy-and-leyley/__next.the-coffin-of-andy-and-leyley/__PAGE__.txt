@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3499,["309","static/chunks/309-1e78fba376baa077.js","137","static/chunks/137-9eb0180697a69164.js","577","static/chunks/577-dfa29470032bd7f7.js","524","static/chunks/app/the-coffin-of-andy-and-leyley/page-dc90ee9e52c07cfd.js"],"default"]
+2:I[3499,["568","static/chunks/568-095e932eb4a6770f.js","137","static/chunks/137-9eb0180697a69164.js","577","static/chunks/577-45cd691a877a4e7f.js","524","static/chunks/app/the-coffin-of-andy-and-leyley/page-3fb2055fbb6961a5.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l8SFurQLOHw5tEIaxqepx"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4po9or2y4-R9qamuxPii4"}
 5:null
