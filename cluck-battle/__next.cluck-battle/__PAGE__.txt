@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3638,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","577","static/chunks/577-aaa866301226561d.js","1028","static/chunks/1028-daa24c7d611a424c.js","5502","static/chunks/app/cluck-battle/page-c91f0e307d06d7bb.js"],"default"]
+2:I[3638,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","577","static/chunks/577-2a3ad86622f9f0fb.js","1028","static/chunks/1028-daa24c7d611a424c.js","5502","static/chunks/app/cluck-battle/page-c91f0e307d06d7bb.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"cluck-battle"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7qx0raWGU9J1EEwYg_efz"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"cluck-battle"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9I8U_Ds_qaWMawrW9Szm3"}
 5:null
