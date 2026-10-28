@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[9638,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","577","static/chunks/577-78f03ab6da64d442.js","374","static/chunks/app/lovemaniac-scarlet-lust/page-8f69aa2f1198dc29.js"],"default"]
+2:I[9638,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","577","static/chunks/577-0dca648dbd56ac26.js","374","static/chunks/app/lovemaniac-scarlet-lust/page-8f69aa2f1198dc29.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/_next/static/css/cfbea9420e378876.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cfbea9420e378876.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-KA58VS-g3j9ySsVuRCvN"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cfbea9420e378876.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IwNrrFiR2Cs7lnEK9A9ax"}
 5:null
