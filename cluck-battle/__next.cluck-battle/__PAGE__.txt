@@ -3,5 +3,5 @@
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/_next/static/css/6f9f17e2249efa72.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"cluck-battle"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6f9f17e2249efa72.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uIjW8BJnwN9KwWh2aV2Dz"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"cluck-battle"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6f9f17e2249efa72.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IBe4esyqvsm_4mUgUyMO9"}
 5:null
