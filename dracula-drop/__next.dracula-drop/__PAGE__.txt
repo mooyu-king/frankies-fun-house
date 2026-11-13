@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[9177,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","8188","static/chunks/8188-8f13c3ff0277053e.js","8731","static/chunks/app/dracula-drop/page-4548559a5d4513a4.js"],"default"]
+2:I[9177,["9568","static/chunks/9568-95cdedf4829016c6.js","8137","static/chunks/8137-d52aeb1dd7cd29ec.js","8188","static/chunks/8188-d55b13d74c357ffb.js","8731","static/chunks/app/dracula-drop/page-4548559a5d4513a4.js"],"default"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/_next/static/css/e319d496c3d13b2d.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e319d496c3d13b2d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uH4GYF54kKEGhr-nGsDCN"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e319d496c3d13b2d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"i6ZPsKir8hwxi-SfcXRV2"}
 5:null
