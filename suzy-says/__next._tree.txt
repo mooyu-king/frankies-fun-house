@@ -1,0 +1,4 @@
+:HL["/_next/static/css/162cc55e67baa7a9.css","style"]
+:HL["/_next/static/css/18b3e83796fa27d5.css","style"]
+:HL["/_next/static/css/3a7dbe70d3bd7bca.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"suzy-says","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zG4xuB1R2941E8vkBIGfC"}
